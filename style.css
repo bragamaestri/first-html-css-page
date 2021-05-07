@@ -1,0 +1,24 @@
+body {
+	background: #f8f8f8
+}
+
+#foto {
+	width: 100%;
+	height: 500px
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #c3c3c3;
+}
